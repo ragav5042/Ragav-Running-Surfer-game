@@ -2,7 +2,7 @@ var score=0
 var gameState="play"
 function preload(){
   //pre-load images
-  running = loadAnimation("runner-1.png", "runner-2.png");
+  running = loadAnimation("Runner-1.png", "Runner-2.png");
   path=loadImage("path.png")
   coinImage=loadImage("coin.png")
   energyimage=loadImage("energyDrink.png")
